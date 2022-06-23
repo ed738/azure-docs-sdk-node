@@ -1,7 +1,7 @@
 {
   "Name": "@azure/event-hubs",
   "Version": "5.8.1-alpha.20220526.1",
-  "DevVersion": "5.8.1-alpha.20220622.1",
+  "DevVersion": "5.8.1-alpha.20220623.1",
   "DirectoryPath": "sdk/eventhub/event-hubs",
   "ServiceDirectory": "eventhub",
   "ReadMePath": "sdk/eventhub/event-hubs/README.md",
